@@ -34,15 +34,29 @@ Ref: https://keepachangelog.com/en/1.0.0/
 
 # Changelog
 
+## [Unreleased]
+
+### Dependencies
+
+* [\#1525](https://github.com/cosmos/ibc-go/pull/1525) Bump SDK version to v0.45.5
+
+### API Breaking
+
+### State Machine Breaking
+
+### Improvements
+
+* (core/02-client) [\#1570](https://github.com/cosmos/ibc-go/pull/1570) Emitting an event when handling an upgrade client proposal. 
+
+### Features
+
+### Bug Fixes
+
 ## [v3.1.0](https://github.com/cosmos/ibc-go/releases/tag/v3.1.0) - 2022-04-16
 
 ### Dependencies
 
 * [\#1300](https://github.com/cosmos/ibc-go/pull/1300) Bump SDK version to v0.45.4
-
-### API Breaking
-
-### State Machine Breaking
 
 ### Improvements
 
